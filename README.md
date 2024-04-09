@@ -3,7 +3,7 @@
 An example gradle project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
 ## Try me!
-test
+test1
 ```
 brew tap srcclr/srcclrss
 brew install srcclr
